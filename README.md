@@ -1,5 +1,3 @@
-# Static React Travel Journal Page
+# React App
 
-Made by following a design from Figma
-
-![Description](sc1.png)
+Simple app listing a couple of locations
